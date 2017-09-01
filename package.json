@@ -2,7 +2,7 @@
     "name": "gulpsymbols",
     "displayName": "Gulp Task Symbol Provider",
     "description": "Adds gulp tasks to the symbol provider in your gulpfile.js",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "apazureck",
     "author": {
         "email": "andreas@pazureck.de",
